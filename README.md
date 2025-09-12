@@ -8,10 +8,12 @@ This repository supplements the [Design Meets Data](https://ethanguyant.com/tag/
 
 ## 📖 Series Index
 
-- **01 – From Static Slicers to Interactive Decision Aids**  
+- **[01 – From Static Slicers to Interactive Decision Aids](./dynamic-slicers/dynamic-slicers.md)**  
   This pattern enhances standard Power BI slicers with **live preview counts, percentages, and trends**, making them active decision aids instead of passive filters.
-  
-  → [`dynamic-slicers-data-previews`](./dynamic-slicers-data-previews/)
+
+<p align="center">
+  <img src="./dynamic-slicers/images/1-preview.png" alt="Slicer Previews" width="850" />
+</p>
 
 (More entries coming soon.)
 
