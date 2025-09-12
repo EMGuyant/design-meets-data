@@ -11,6 +11,7 @@ This example demonstrates how to move beyond static slicers and transform them i
 ⚡ **Quick Links**  
 - 📖 Read the Full blog post: [Design Meets Data: ]()  
 - 📊 Explore the sample report: [View on Power BI Service](https://app.powerbi.com/view?r=eyJrIjoiZTg4ZmY0ZmEtNDdlZi00NGZiLTg4ZDEtNjg1YjM1OTliYjhlIiwidCI6IjYxMGRmYjc2LTFjNjQtNDE3Yy1iODVjLTVjZDU3YTNjNDVjYyIsImMiOjJ9)
+- 📁 Sample file: [`dynamic-slicers-data-previews.pbix`](./pbix/dynamic-slicers-data-previews.pbix)
 
 ---
 
