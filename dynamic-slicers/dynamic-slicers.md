@@ -17,7 +17,7 @@ This example demonstrates how to move beyond static slicers and transform them i
 
 ## 📁 Sample File
 
-[`dynamic-slicers-data-previews.pbix`](dynamic-slicers/PBIX/dynamic-slicers-data-previews.pbix)
+[`dynamic-slicers-data-previews.pbix`](./PBIX/dynamic-slicers-data-previews.pbix)
 
 The file includes the following examples:
 
